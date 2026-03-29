@@ -1,5 +1,5 @@
 body {
-  background-image: url(../src/1111.jpeg);
+  background-image: url(/src/1111.jpeg);
   background-repeat: no-repeat;
   background-size: cover;
   animation: myimagechange;
@@ -43,33 +43,33 @@ body {
 }
 @keyframes myimagechange {
   10% {
-    background-image: url(../src/2222.jpeg);
+    background-image: url(/src/2222.jpeg);
   }
   20% {
-    background-image: url(../src/3333.jpg);
+    background-image: url(/src/3333.jpg);
   }
   30% {
-    background-image: url(../src/4444.jpeg);
+    background-image: url(/src/4444.jpeg);
   }
   40% {
-    background-image: url(../src/5555.jpeg);
+    background-image: url(/src/5555.jpeg);
   }
   50% {
-    background-image: url(../src/6666.jpg);
+    background-image: url(/src/6666.jpg);
   }
   60% {
-    background-image: url(../src/kerb\ 5.jpeg);
+    background-image: url(/src/kerb\ 5.jpeg);
   }
   70% {
-    background-image: url(../src/kerb777.jpeg);
+    background-image: url(/src/kerb777.jpeg);
   }
   80% {
-    background-image: url(../src/kerb7777.jpg);
+    background-image: url(/src/kerb7777.jpg);
   }
   90% {
-    background-image: url(../src/kerb8888.webp);
+    background-image: url(/src/kerb8888.webp);
   }
   100% {
-    background-image: url(../src/interlocking\ 5.jpeg);
+    background-image: url(/src/interlocking\ 5.jpeg);
   }
 }
